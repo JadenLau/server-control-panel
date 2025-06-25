@@ -1,0 +1,5 @@
+#!/bin/pymidi
+VER 2
+
+SPD 90
+001 | 1
